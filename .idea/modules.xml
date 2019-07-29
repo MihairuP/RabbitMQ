@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gstart.iml" filepath="$PROJECT_DIR$/Gstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RabbitProducer.iml" filepath="$PROJECT_DIR$/.idea/modules/RabbitProducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RabbitProducer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RabbitProducer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RabbitProducer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/RabbitProducer.test.iml" />
+    </modules>
+  </component>
+</project>
